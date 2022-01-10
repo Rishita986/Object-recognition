@@ -1,0 +1,23 @@
+body{
+    background-color: coral;
+    color: whitesmoke;
+}
+
+.heading
+{
+    width: 80%;
+    font-size: 25px;
+}
+
+#camera
+{
+    border: 2px dashed violet;
+    width: 400px;
+    height: 400px;
+}
+
+.name_of_objects
+{
+    color: black;
+    font-size: 20px;
+}
